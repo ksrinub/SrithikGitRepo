@@ -1,3 +1,0 @@
-"This is my first code in git ec2 ubuntu mechine"
-"Start writting code"
-"stating writting code on 3rd line"
